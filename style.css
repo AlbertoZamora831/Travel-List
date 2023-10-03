@@ -1,0 +1,30 @@
+div {
+    background-color: lightsteelblue;
+}
+
+.Top3 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#Top1 {
+    border-radius: 25px;
+    border: 15px double blue;
+    color: chartreuse;
+    background-color: fuchsia;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+#Mylandingpage {
+    border: 3px solid red;
+    height: 600px;
+    width: 800px;
+    background-image: url("./Travelimage.webp");
+}
